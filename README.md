@@ -11,14 +11,14 @@ This Power BI report analyzes sales, profit, and order trends across various dim
 - Shipping trends and delays
 - Year-over-year growth opportunities
 
-## 📸 Screenshots
+# 📸 Screenshots
 
 ```md
 ![Superstore scrnshot](https://github.com/user-attachments/assets/6333d01f-8d79-4201-a977-b579ce59bda2)
 .png)
 ![Yearly Profit by Segmet](https://github.com/user-attachments/assets/a85975ac-d308-4029-8b32-e7c1d3cbbdfc)
 
-# 📁 File Structure
+# 📁  File Structure
 
 ├── [Sample - Superstore.xlsx](https://github.com/user-attachments/files/19721857/Sample.-.Superstore.xlsx)
 

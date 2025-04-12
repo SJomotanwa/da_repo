@@ -18,11 +18,11 @@ This Power BI report analyzes sales, profit, and order trends across various dim
 .png)
 ![Yearly Profit by Segmet](https://github.com/user-attachments/assets/a85975ac-d308-4029-8b32-e7c1d3cbbdfc)
 
-# 📁  File Structure
+# 📁  File 
 
 ├── [Sample - Superstore.xlsx](https://github.com/user-attachments/files/19721857/Sample.-.Superstore.xlsx)
 
-# 🚀 Features
+# Features
 ~~ Dynamic filters for Category, Segment, Region, and Date
 DAX-based KPIs: Sales, Profit, Quantity, and Profit Ratio
 Visual breakdowns: heat maps, bar charts, line charts
